@@ -3,7 +3,7 @@
 [![Coverage Status](https://codecov.io/gh/svaberg/WorkshopExample/branch/master/graph/badge.svg)](https://codecov.io/gh/Svaberg/WorkshopExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2cfe371c7ff940519d851f123424e6d6)](https://www.codacy.com/app/svaberg/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=svaberg/WorkshopExample&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://img.shields.io/travis/svaberg/WorkshopExample.svg)](https://travis-ci.org/svaberg/WorkshopExample)
-[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Svaberg/abc/WorkshopExample/master/LICENSE)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/svaberg/WorkshopExample/blob/master/LICENSE)
 
 A small github repo used as an example for the coding workshop!
 
