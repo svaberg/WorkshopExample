@@ -1,7 +1,7 @@
 # WorkshopExample
 
 [![Coverage Status](https://codecov.io/gh/Svaberg/WorkshopExample/branch/master/graph/badge.svg)](https://codecov.io/gh/Svaberg/WorkshopExample)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea7ca374a79c4321952715a228a454f0)](https://www.codacy.com/app/svaberg/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Svaberg/WorkshopExample&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2cfe371c7ff940519d851f123424e6d6)](https://www.codacy.com/app/svaberg/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=svaberg/WorkshopExample&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://img.shields.io/travis/Svaberg/WorkshopExample.svg)](https://travis-ci.org/Svaberg/WorkshopExample)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Svaberg/abc/WorkshopExample/master/LICENSE)
 
@@ -17,4 +17,4 @@ To use this framework you will need to:
 5. Update the codacy badge in this readme because it uses more than username/repo
 6. Set an environment variable GITHUB_API_KEY with a Personal Access Token to commit Sphinx html.
 
-Put this line here to trigger travis check.
+Project documentation is available at https://svaberg.github.io/WorkshopExample/
