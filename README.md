@@ -16,3 +16,5 @@ To use this framework you will need to:
 4. Enable Travis, CodeCov and Codacy.
 5. Update the codacy badge in this readme because it uses more than username/repo
 6. Set an environment variable GITHUB_API_KEY with a Personal Access Token to commit Sphinx html.
+
+Put this line here to trigger travis check.
